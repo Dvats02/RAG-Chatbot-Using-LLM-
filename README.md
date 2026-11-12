@@ -59,10 +59,6 @@ The application follows a simple client-server architecture:
     source venv/bin/activate
     ```
 
-3.  **Install Python dependencies:**
-    ```bash
-    pip install -r requirements.txt
-
 ### Ollama Setup
 
 1.  **Ensure Ollama is running.** (Check for the menu bar icon on macOS).
